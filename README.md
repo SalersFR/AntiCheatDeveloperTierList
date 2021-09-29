@@ -20,6 +20,7 @@ AntiCheat developers in the community, ranked best to worst
 17. Nort721
 18. Foulest
 19. Herobrine99Dan
+20. SalersFR
 
 Honourable Mentions:
 - Jonhan: Introduced good check concepts to newcomers in the community.
